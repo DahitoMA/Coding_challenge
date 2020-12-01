@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-from MLpkgMAD.Interface import ML_Model
+from MLpkgMA.Interface import ML_Model
 from sklearn.datasets import fetch_openml
 from sklearn.model_selection import train_test_split
 from sklearn import neighbors
